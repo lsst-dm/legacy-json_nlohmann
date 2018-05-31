@@ -1,0 +1,1 @@
+A C++11 header-only library which eases JSON manipulation.  See README.md from upstream at https://github.com/nlohmann/json for further details.
